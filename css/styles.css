@@ -1,9 +1,6 @@
-/* helper */
-
 .pad-30 {
   padding: 30px;
 }
-
 
 .logo {
   max-height: 70px;
@@ -16,12 +13,14 @@
   font-size: 36px;
   color: #FF827B
 }
+
 .hero {
   background-image: url(../img/hero.jpg);
   background-size: cover;
   height: 450px;
   background-position: center;
 }
+
 .hero h2 {
   font-family: 'Lato';
   font-weight: 500;
@@ -49,14 +48,11 @@
 
 .footer {
   background-color: #483C32;
-
 }
 
 .footer a {
   color: white;
 }
-
-
 
 .divider {
   border-right: gray solid 1px;
